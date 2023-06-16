@@ -1,0 +1,220 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+.navbar {
+    background-color: white;
+}
+
+.image-design {
+
+    width: 50%;
+}
+
+.content-card {
+    width: 50%;
+
+}
+
+.heading {
+    font-family: Roboto;
+    font-weight: bold;
+    font-size: 50px;
+}
+
+.pargraph {
+    font-family: Roboto;
+
+    font-size: 25px;
+}
+
+.pargraph-2 {
+    font-family: Roboto;
+
+    font-size: 25px;
+}
+
+.body-1 {
+
+    background: linear-gradient(83.5deg, #0F2B95 0%, #468BFD 100%), linear-gradient(0deg, #CCD7FF, #CCD7FF);
+    color: white;
+}
+
+.main-card-2 {
+    height: 50%;
+}
+
+.card-1 {
+    height: 50px;
+    width: 200px;
+    background-color: blue;
+    border-top-left-radius: 10px;
+    border-bottom-left-radius: 10px;
+}
+
+.triangle {
+    background-color: blue;
+    font-size: 20px;
+}
+
+.card-2 {
+    height: 50px;
+    width: 200px;
+    background-color: #7B7B7B;
+
+}
+
+.card-3 {
+    height: 50px;
+    width: 200px;
+    background-color: #3EB489;
+}
+
+.card-4 {
+    height: 50px;
+    width: 200px;
+    background-color: #468BFD;
+    border-top-right-radius: 10px;
+    border-bottom-right-radius: 10px;
+}
+
+.icont-style {
+    background-color: red;
+    font-size: 500px;
+    height: 50px;
+}
+
+.triangle-card {
+    height: 30px;
+    width: 30px;
+    background-color: blue;
+    border-top-left-radius: 90px;
+    border-top-right-radius: 90px;
+
+}
+
+.image-design-card {
+    border-radius: 15px;
+}
+
+.traingle-down-card {
+    height: 0;
+    width: 0;
+    border-left: 25px solid transparent;
+    border-right: 25px solid transparent;
+    border-top: 50px solid blue;
+}
+
+.text-card {
+    width: 200px;
+    height: 300px;
+}
+
+.round-card {
+    height: 50px;
+    width: 50px;
+    border-radius: 50px;
+    color: white;
+    background-color: blue;
+    text-align: center;
+}
+
+.line-card {
+    height: 100px;
+    width: 3px;
+    background-color: blue;
+
+}
+
+.traingle-up-card {
+    height: 0;
+    width: 0;
+
+    border-left: 25px solid transparent;
+    border-right: 25px solid transparent;
+    border-bottom: 50px solid #7B7B7B;
+}
+
+.round-card-2 {
+    height: 50px;
+    width: 50px;
+    border-radius: 50px;
+    color: white;
+    background-color: #3EB489;
+    text-align: center;
+}
+
+.traingle-down-card-3 {
+    height: 0;
+    width: 0;
+    border-left: 25px solid transparent;
+    border-right: 25px solid transparent;
+    border-top: 50px solid #3EB489;
+}
+
+
+
+.round-card-3 {
+    height: 50px;
+    width: 50px;
+    border-radius: 50px;
+    color: white;
+    background-color: #3EB489;
+    text-align: center;
+}
+
+.line-card-3 {
+    height: 100px;
+    width: 3px;
+    background-color: #3EB489;
+
+}
+
+.line-card-4 {
+    height: 100px;
+    width: 3px;
+    background-color: #468BFD;
+
+}
+
+.traingle-down-card-4 {
+    height: 0;
+    width: 0;
+
+    border-left: 25px solid transparent;
+    border-right: 25px solid transparent;
+    border-bottom: 50px solid #468BFD;
+}
+
+.round-card-4 {
+    height: 50px;
+    width: 50px;
+    border-radius: 50px;
+    color: white;
+    background-color: #468BFD;
+    text-align: center;
+}
+
+.main-card-2 {
+    height: 80vh;
+    width: 90vw;
+}
+
+.up-card-container {
+    margin-top: 198px;
+}
+
+.main-card-2-heading {
+    font-weight: bold;
+}
+
+.main-card-3 {
+    background: linear-gradient(83.5deg, #0F2B95 0%, #468BFD 100%), linear-gradient(0deg, #CCD7FF, #CCD7FF);
+    color: white;
+}
+
+.inside-card-1 {
+    width: 50%;
+}
+
+.inside-card-2 {
+    width: 50%;
+}
